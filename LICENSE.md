@@ -19,8 +19,8 @@ __with the understanding that:__
 * __Waiver:__ Any of the above conditions can be waived if you get permission from the copyright holder.
 * __Public Domain:__ Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
 * __Other Rights:__ In no way are any of the following rights affected by the license:
-** Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
-** The author's moral rights;
-** Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+    * Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+    * The author's moral rights;
+    * Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
 __Notice:__ For any reuse or distribution, you must make celar to others the license terms of this work.
